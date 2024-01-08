@@ -1,1 +1,1 @@
-# CODESOFT_TASK_2_simple_calculator
+# CODSOFT_TASK_2_simple_calculator
